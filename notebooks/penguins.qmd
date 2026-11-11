@@ -1,0 +1,15 @@
+---
+title: "Palmer Penguins"
+---
+
+## Clean the data
+
+```{r}
+
+```
+
+## Make a figure
+
+```{r}
+
+```
